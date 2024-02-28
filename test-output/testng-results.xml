@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-26T16:59:39Z" name="Test automation Suite" finished-at="2024-02-26T17:00:26Z" duration-ms="47450">
+    <groups>
+    </groups>
+    <test started-at="2024-02-26T16:59:39Z" name="Practice Automation" finished-at="2024-02-26T17:00:26Z" duration-ms="47450">
+      <class name="com.parameters.ParameterTest2">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.parameters.ParameterTest2@1356d4d4]" started-at="2024-02-26T12:00:06Z" name="login" finished-at="2024-02-26T12:00:15Z" duration-ms="8838" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://naveenautomationlabs.com/opencart/index.php?route=account/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="buttons()[pri:0, instance:com.parameters.ParameterTest2@1356d4d4]" started-at="2024-02-26T12:00:15Z" name="buttons" finished-at="2024-02-26T12:00:15Z" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttons -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parameters.ParameterTest2@1356d4d4]" started-at="2024-02-26T12:00:15Z" name="tearDown" finished-at="2024-02-26T12:00:15Z" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.parameters.ParameterTest2@1356d4d4]" started-at="2024-02-26T12:00:15Z" name="login" finished-at="2024-02-26T12:00:26Z" duration-ms="10542" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://naveenautomationlabs.com/opencart/index.php?route=account/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="links()[pri:0, instance:com.parameters.ParameterTest2@1356d4d4]" started-at="2024-02-26T12:00:26Z" name="links" finished-at="2024-02-26T12:00:26Z" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- links -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parameters.ParameterTest2@1356d4d4]" started-at="2024-02-26T12:00:26Z" name="tearDown" finished-at="2024-02-26T12:00:26Z" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.parameters.ParameterTest2 -->
+      <class name="com.parameters.ParameterTest">
+        <test-method is-config="true" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.parameters.ParameterTest@55f616cf]" started-at="2024-02-26T11:59:39Z" name="login" finished-at="2024-02-26T11:59:46Z" duration-ms="7173" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://naveenautomationlabs.com/opencart/index.php?route=account/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nehanithwi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Baby@11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="desktops()[pri:0, instance:com.parameters.ParameterTest@55f616cf]" started-at="2024-02-26T11:59:46Z" name="desktops" finished-at="2024-02-26T11:59:48Z" duration-ms="2038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- desktops -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parameters.ParameterTest@55f616cf]" started-at="2024-02-26T11:59:48Z" name="tearDown" finished-at="2024-02-26T11:59:48Z" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.parameters.ParameterTest@55f616cf]" started-at="2024-02-26T11:59:48Z" name="login" finished-at="2024-02-26T11:59:55Z" duration-ms="7249" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://naveenautomationlabs.com/opencart/index.php?route=account/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nehanithwi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Baby@11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="laptopsAndNotebooks()[pri:0, instance:com.parameters.ParameterTest@55f616cf]" started-at="2024-02-26T11:59:55Z" name="laptopsAndNotebooks" finished-at="2024-02-26T11:59:55Z" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laptopsAndNotebooks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parameters.ParameterTest@55f616cf]" started-at="2024-02-26T11:59:55Z" name="tearDown" finished-at="2024-02-26T11:59:55Z" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.parameters.ParameterTest@55f616cf]" started-at="2024-02-26T11:59:55Z" name="login" finished-at="2024-02-26T12:00:03Z" duration-ms="7686" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://naveenautomationlabs.com/opencart/index.php?route=account/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nehanithwi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Baby@11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="search(java.lang.String)[pri:0, instance:com.parameters.ParameterTest@55f616cf]" started-at="2024-02-26T12:00:03Z" name="search" finished-at="2024-02-26T12:00:06Z" duration-ms="3105" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[imac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parameters.ParameterTest@55f616cf]" started-at="2024-02-26T12:00:06Z" name="tearDown" finished-at="2024-02-26T12:00:06Z" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.parameters.ParameterTest -->
+    </test> <!-- Practice Automation -->
+  </suite> <!-- Test automation Suite -->
+</testng-results>

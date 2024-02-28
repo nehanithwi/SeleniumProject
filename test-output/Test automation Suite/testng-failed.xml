@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test automation Suite]" guice-stage="DEVELOPMENT">
+  <test name="Practice Automation(failed)">
+    <parameter name="password" value="Baby@11"/>
+    <parameter name="emailid" value="nehanithwi@gmail.com"/>
+    <parameter name="text" value="imac"/>
+    <parameter name="url" value="https://naveenautomationlabs.com/opencart/index.php?route=account/login"/>
+    <classes>
+      <class name="com.parameters.ParameterTest2">
+        <methods>
+          <include name="login"/>
+          <include name="buttons"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.parameters.ParameterTest2 -->
+    </classes>
+  </test> <!-- Practice Automation(failed) -->
+</suite> <!-- Failed suite [Test automation Suite] -->

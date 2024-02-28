@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="POM OpenCart">
+    <test name="Page Object Model">
+    
+    
+    
+        <classes>
+            <class name="com.opencart.testcases.LoginPageTest"/>
+            <class name="com.opencart.testcases.MyAccountPageTest"/>
+            <class name="com.opencart.testcases.EditAccountPageTest"/>
+            
+        </classes>
+    </test>
+
+</suite>
